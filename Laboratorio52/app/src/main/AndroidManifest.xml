@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Lab5ViankaCastro"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Laboratorio5"
+        tools:targetApi="31" >
+
+        <!-- MainActivity como el punto de entrada de la app -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/title_activity_main"
+            android:theme="@style/Theme.Laboratorio5" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- ConcertDetailActivity -->
+        <activity
+            android:name=".ConcertDetailActivity"
+            android:exported="true"
+            android:label="@string/title_activity_concert_detail"
+            android:theme="@style/Theme.Laboratorio5" />
+
+        <!-- Perfil Activity -->
+        <activity
+            android:name=".ui.theme.PerfilActivity"
+            android:exported="true"
+            android:label="@string/title_activity_perfil"
+            android:theme="@style/Theme.Laboratorio5" />
+
+        <!-- Listado Activity -->
+        <activity
+            android:name=".ui.theme.ListadoActivity"
+            android:exported="true"
+            android:label="@string/title_activity_listado"
+            android:theme="@style/Theme.Laboratorio5" />
+
+        <!-- ConcertList Activity -->
+        <activity
+            android:name=".ConcertList"
+            android:exported="true"
+            android:label="ConcertList"
+            android:theme="@style/Theme.Laboratorio5" />
+
+    </application>
+</manifest>
