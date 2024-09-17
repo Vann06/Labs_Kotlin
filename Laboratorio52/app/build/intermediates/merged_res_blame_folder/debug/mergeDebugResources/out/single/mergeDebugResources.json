@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.laboratorio5.app-debug-68:/drawable_mgmt.png.flat",
+        "source": "com.example.laboratorio5.app-main-70:/drawable/mgmt.png"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/drawable_tv.png.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/drawable/tv.png"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/drawable_mars.png.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/drawable/mars.png"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/drawable_cardigans.png.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/drawable/cardigans.png"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.laboratorio5.app-debug-68:/drawable_phoebe.png.flat",
+        "source": "com.example.laboratorio5.app-main-70:/drawable/phoebe.png"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.laboratorio5.app-debug-68:/drawable_franz_ferdinand.png.flat",
+        "source": "com.example.laboratorio5.app-main-70:/drawable/franz_ferdinand.png"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.laboratorio5.app-debug-68:/drawable_tame_impala.png.flat",
+        "source": "com.example.laboratorio5.app-main-70:/drawable/tame_impala.png"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/drawable_deftones.png.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/drawable/deftones.png"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/drawable_lock.png.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/drawable/lock.png"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/drawable_favorite.png.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/drawable/favorite.png"
+    },
+    {
+        "merged": "com.example.laboratorio5.app-debug-68:/drawable_bowie.png.flat",
+        "source": "com.example.laboratorio5.app-main-70:/drawable/bowie.png"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/xml_backup_rules.xml.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/drawable_bleach.png.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/drawable/bleach.png"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/drawable_notification.png.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/drawable/notification.png"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/drawable_ic_perfil.png.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/drawable/ic_perfil.png"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/drawable_fondo.png.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/drawable/fondo.png"
+    },
+    {
+        "merged": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-debug-68:/drawable_mistki.png.flat",
+        "source": "/Users/viankacastro/.gradle/daemon/8.7/com.example.laboratorio5.app-main-70:/drawable/mistki.png"
+    }
+]
